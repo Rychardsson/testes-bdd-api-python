@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento localmente.
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/SEU-USUARIO/testes-bdd-api-python.git](https://github.com/SEU-USUARIO/testes-bdd-api-python.git)
+    git clone [https://github.com/SEU-USUARIO/testes-bdd-api-python.git](https://github.com/Rychardsson/testes-bdd-api-python.git)
     cd testes-bdd-api-python
     ```
 
